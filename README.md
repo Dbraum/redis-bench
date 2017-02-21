@@ -6,8 +6,9 @@
 - [1] 单机ioredis的基准
 - [] 单机node-redis的基准
 - [] 命令行的基准
-## Usage
 
+
+## Usage
 ```
 npm run bench
 ```
